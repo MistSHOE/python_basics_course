@@ -16,10 +16,6 @@ while i < 3:
     x.append(agent_1)
     x.append(agent_2)
 
-
-print(type(agent_2))
-print(type(agent_1))
 print(agent_1, agent_2)
-print(type(x))
 print(x)
 
